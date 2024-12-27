@@ -1,6 +1,5 @@
 [
-  { "name": "源0", "url": "https://huawei8.live/api.php/provide/vod/", "type": "default" },
-  { "name": "源1", "url": "https://json02.heimuer.xyz/api.php/provide/vod/", "type": "default" },
-  { "name": "源2", "url": "https://api.1080zyku.com/inc/apijson.php", "type": "1080zyku" },
-  { "name": "源3", "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json", "type": "default" }
+  { "name": "普通", "url": "https://huawei8.live/api.php/provide/vod/", "type": "default" },
+  { "name": "高清", "url": "https://json02.heimuer.xyz/api.php/provide/vod/", "type": "default" },
+  { "name": "超清", "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json", "type": "default" }
 ]
