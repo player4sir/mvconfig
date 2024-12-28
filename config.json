@@ -1,5 +1,1 @@
-[
-  { "name": "普通", "url": "https://huawei8.live/api.php/provide/vod/", "type": "default" },
-  { "name": "高清", "url": "https://json02.heimuer.xyz/api.php/provide/vod/", "type": "default" },
-  { "name": "超清", "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json", "type": "default" }
-]
+
